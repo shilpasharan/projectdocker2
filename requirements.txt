@@ -1,0 +1,7 @@
+click
+pylint
+pandas
+numpy
+matplotlib
+seaborn
+sklearn
